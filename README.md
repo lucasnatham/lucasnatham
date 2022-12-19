@@ -1,8 +1,8 @@
 ### Hello, eu sou o Lucas👋
 
 - 👨‍💻 Atualmente trabalho com front-end.
-- 📘 Estudando Html/Css.
-- ⚖ Academico de Direito.
+- 📘 Estudando JavaScript e typescript.
+- 👨‍💻Dev Junior.
 - 📱 Me acompanha nas redes sociais.
 
 <div align="left">
